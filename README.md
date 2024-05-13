@@ -15,7 +15,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DebarjunChakraborty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+[![An image of @debarjunchakraborty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debarjunchakraborty)](https://holopin.io/@debarjunchakraborty)
+--- 
 [![](https://visitcount.itsvg.in/api?id=DebarjunChakraborty&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
