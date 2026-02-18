@@ -3,7 +3,7 @@ Aspiring Graduate Machine Learning Engineer / Data Scientist (UK 2026 Intake)
 
 Current Research
 
-Machine Learning Research Intern (Newcastle University)
+A. Machine Learning Research Intern (Newcastle University)
 
 • Addressed critical data gaps in IoT water networks by engineering deep learning pipelines RNNs and LSTMs to reconstruct missing readings, targeting an 85% Data Success Rate to optimize leak detection.
 
@@ -11,7 +11,7 @@ Machine Learning Research Intern (Newcastle University)
 
 Tech stack: Python, TensorFlow, PyTorch, RMSE, MAE, Time-Series Forecasting, Data Cleaning. 
 
-Data Analytics Studentship, Newcastle University 
+B. Data Analytics Studentship, Newcastle University 
 
 • Resolved data accessibility bottlenecks by designing automated management dashboards that visualized complex library usage statistics, transforming raw logs into actionable insights for strategic decision-making.
 
