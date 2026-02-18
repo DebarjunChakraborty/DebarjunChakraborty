@@ -19,6 +19,12 @@ What I Bring to a Graduate Role
 • Deployment & MLOps Fundamentals - Flask APIs, CI/CD, GitHub Actions  
 • Business & Stakeholder Awareness - Built Power BI dashboards for institutional decision-making  
 
+Projects
+🔹 Healthcare Pricing Prediction (95% Accuracy) - Random Forest model deployed via Flask API  
+🔹 Breast Cancer Classification (>95% Test Accuracy) - Feedforward Neural Network using TensorFlow  
+🔹 Environmental Pollution Classification - 23k+ records cleaned, validated & modelled in R  
+🔹 Energy & Carbon Emissions Dashboard (UK Housing) - Power BI analytics supporting sustainability insights  
+
 I am particularly interested in roles involving:
 
 • Machine Learning Engineering  
