@@ -23,7 +23,6 @@ I am particularly interested in roles involving:
 
 • Machine Learning Engineering  
 • Data Science & Predictive Modelling  
-• AI for Healthcare  
 • AI for Environmental & Infrastructure Systems  
 • Data Engineering supporting ML systems  
 
