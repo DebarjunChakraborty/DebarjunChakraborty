@@ -6,12 +6,15 @@ Current Research
 Machine Learning Research Intern (Newcastle University)
 
 • Addressed critical data gaps in IoT water networks by engineering deep learning pipelines RNNs and LSTMs to reconstruct missing readings, targeting an 85% Data Success Rate to optimize leak detection.
+
 • Developed hands-on expertise in preprocessing raw time-series data and validating model performance against industry benchmarks (RMSE/MAE) for predictive maintenance.
 
 Tech stack: Python, TensorFlow, PyTorch, RMSE, MAE, Time-Series Forecasting, Data Cleaning. 
 
 Data Analytics Studentship, Newcastle University 
+
 • Resolved data accessibility bottlenecks by designing automated management dashboards that visualized complex library usage statistics, transforming raw logs into actionable insights for strategic decision-making.
+
 • Developed skills in data structuring within digital systems and translating administrative data requirements into automated business intelligence outputs.
 
 Tech stack: Power BI, DAX, Python, R, Data Modelling, Statistical Analysis, Data Visualization.
