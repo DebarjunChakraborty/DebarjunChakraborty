@@ -1,6 +1,21 @@
-# 💫 About Me:
-I’m currently working on:<br>Researching Deep Learning architectures to reconstruct missing data in millions of smart water meter transmissions for leak detection , while simultaneously developing data models to analyze library occupancy trends for space management optimization.<br><br>I’m looking to collaborate on:<br>Open-source AI for Good initiatives, specifically projects focused on Environmental Sustainability or Healthcare Innovation, where I can apply my experience with predictive modeling.<br><br>I’m looking for help with:<br>Advanced techniques in Time-Series Forecasting and Anomaly Detection for large-scale IoT datasets , as well as discussions on implementing Explainable AI (XAI) modules for deep learning libraries<br><br>I’m currently learning:<br>Generative AI for Business applications, Image Informatics, and Advanced AI methodologies as part of my MSc at Newcastle University , alongside refining my skills in TensorFlow and PyTorch for production environments
+MSc Data Science & Artificial Intelligence | Newcastle University  
+Aspiring Graduate Machine Learning Engineer / Data Scientist (UK 2026 Intake) 
+Current Research
 
+Machine Learning Research Intern (Newcastle University)
+• Reconstructing missing IoT water meter data using RNNs & LSTMs  
+• Processing millions of time-series records  
+• Improving data reliability to support leak detection systems  
+• Evaluating models using RMSE & MAE against regulatory benchmarks  
+
+Tech: Python, TensorFlow, PyTorch, Time-Series Forecasting  
+
+What I Bring to a Graduate Role
+• End-to-End ML Lifecycle Experience - Data Cleaning → Feature Engineering → Model Development → Validation → API Deployment  
+• Strong Python & SQL Foundation  
+• Scalable Data Processing - PySpark for distributed feature engineering  
+• Deployment & MLOps Fundamentals - Flask APIs, CI/CD, GitHub Actions  
+• Business & Stakeholder Awareness - Built Power BI dashboards for institutional decision-making  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/debarjunchakraborty/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarjun14@gmail.com) 
