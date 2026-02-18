@@ -3,6 +3,7 @@ Aspiring Graduate Machine Learning Engineer / Data Scientist (UK 2026 Intake)
 Current Research
 
 Machine Learning Research Intern (Newcastle University)
+
 • Reconstructing missing IoT water meter data using RNNs & LSTMs  
 • Processing millions of time-series records  
 • Improving data reliability to support leak detection systems  
@@ -11,6 +12,7 @@ Machine Learning Research Intern (Newcastle University)
 Tech: Python, TensorFlow, PyTorch, Time-Series Forecasting  
 
 What I Bring to a Graduate Role
+
 • End-to-End ML Lifecycle Experience - Data Cleaning → Feature Engineering → Model Development → Validation → API Deployment  
 • Strong Python & SQL Foundation  
 • Scalable Data Processing - PySpark for distributed feature engineering  
