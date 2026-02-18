@@ -19,6 +19,16 @@ What I Bring to a Graduate Role
 • Deployment & MLOps Fundamentals - Flask APIs, CI/CD, GitHub Actions  
 • Business & Stakeholder Awareness - Built Power BI dashboards for institutional decision-making  
 
+I am particularly interested in roles involving:
+
+• Machine Learning Engineering  
+• Data Science & Predictive Modelling  
+• AI for Healthcare  
+• AI for Environmental & Infrastructure Systems  
+• Data Engineering supporting ML systems  
+
+Open to UK and Europe based graduate opportunities starting 2026.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/debarjunchakraborty/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarjun14@gmail.com) 
 
