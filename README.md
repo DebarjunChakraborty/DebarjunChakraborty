@@ -1,15 +1,20 @@
 MSc Data Science & Artificial Intelligence | Newcastle University  
 Aspiring Graduate Machine Learning Engineer / Data Scientist (UK 2026 Intake) 
+
 Current Research
 
 Machine Learning Research Intern (Newcastle University)
 
-• Reconstructing missing IoT water meter data using RNNs & LSTMs  
-• Processing millions of time-series records  
-• Improving data reliability to support leak detection systems  
-• Evaluating models using RMSE & MAE against regulatory benchmarks  
+• Addressed critical data gaps in IoT water networks by engineering deep learning pipelines RNNs and LSTMs to reconstruct missing readings, targeting an 85% Data Success Rate to optimize leak detection.
+• Developed hands-on expertise in preprocessing raw time-series data and validating model performance against industry benchmarks (RMSE/MAE) for predictive maintenance.
 
-Tech: Python, TensorFlow, PyTorch, Time-Series Forecasting  
+Tech stack: Python, TensorFlow, PyTorch, RMSE, MAE, Time-Series Forecasting, Data Cleaning. 
+
+Data Analytics Studentship, Newcastle University 
+• Resolved data accessibility bottlenecks by designing automated management dashboards that visualized complex library usage statistics, transforming raw logs into actionable insights for strategic decision-making.
+• Developed skills in data structuring within digital systems and translating administrative data requirements into automated business intelligence outputs.
+
+Tech stack: Power BI, DAX, Python, R, Data Modelling, Statistical Analysis, Data Visualization.
 
 What I Bring to a Graduate Role
 
@@ -20,6 +25,7 @@ What I Bring to a Graduate Role
 • Business & Stakeholder Awareness - Built Power BI dashboards for institutional decision-making  
 
 Projects
+
 🔹 Healthcare Pricing Prediction (95% Accuracy) - Random Forest model deployed via Flask API  
 🔹 Breast Cancer Classification (>95% Test Accuracy) - Feedforward Neural Network using TensorFlow  
 🔹 Environmental Pollution Classification - 23k+ records cleaned, validated & modelled in R  
