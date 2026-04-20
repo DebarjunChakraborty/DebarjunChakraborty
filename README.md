@@ -9,7 +9,20 @@ A. Machine Learning Research Intern (Newcastle University)
 
 • Developed hands-on expertise in preprocessing raw time-series data and validating model performance against industry benchmarks (RMSE/MAE) for predictive maintenance.
 
-Tech stack: Python, TensorFlow, PyTorch, RMSE, MAE, Time-Series Forecasting, Data Cleaning. 
+Tech stack: Python, TensorFlow, PyTorch, RMSE, MAE, Time-Series Forecasting, Data Cleaning
+
+Models Tested : 
+Baselines & Statistical: Linear/Spline Interpolation, SARIMA, Matrix SVD.
+
+Traditional ML: XGBoost, KNN, Random Forest.
+
+Standard DL: LSTM, TCN, Transformers, SAITS.
+
+Advanced ML & GenAI: GANs, Diffusion Models, Bayesian NNs, GNNs, Physics-Informed ML, Self-Supervised, and Multi-Resolution networks.
+
+Custom Architecture: Developed and evaluated a custom model (WaterGapFormer).
+
+
 
 B. Data Analytics Studentship, Newcastle University 
 
